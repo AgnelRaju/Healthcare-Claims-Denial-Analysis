@@ -31,7 +31,8 @@ Download the Excel file and notebooks.
 Open the Excel file to view dashboards and pivot tables.
 
 ## Dashboard Preview
-<img width="1280" height="840" alt="image" src="https://github.com/user-attachments/assets/05117940-503a-4ab7-a60a-4851c51a47ee" />
+<img width="1282" height="841" alt="image" src="https://github.com/user-attachments/assets/1a6d5a20-a577-4fbb-8484-07bc1ae87926" />
+
 
 ## Key Insights
 
